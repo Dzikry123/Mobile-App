@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "Native",
-    "slug": "Native"
+    "slug": "Native",
+    "extra": {
+      "eas": {
+        "projectId": "64f05ebd-2790-4f20-9313-eb55e7519623"
+      }
+    },
+    "android": {
+      "package": "com.dzyel.Native"
+    }
   }
 }
